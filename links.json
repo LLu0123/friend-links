@@ -414,5 +414,13 @@
     "desc": "苦逼高中生的小站",
     "name": "MareDevi",
     "url": "https://maredevi.fun"
+  },
+  {
+    "avatar": "https://siena.zone/favicon_compressed.png",
+    "blog": "https://siena.zone/?entry_type=blog",
+    "color": "#69F6B7",
+    "desc": "跳吧，在无比宏大的星系！",
+    "name": "小鹿的个人网站",
+    "url": "https://www.siena.zone"
   }
 ]
